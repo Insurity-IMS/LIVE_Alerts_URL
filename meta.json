@@ -1,0 +1,27 @@
+{
+  "generated_at_utc": "2026-02-17T19:45:41.940213+00:00",
+  "paths": {
+    "summary_csv": "C:\\Users\\Sabrina.Temesghen\\Documents\\CLEAN_AI_AGENT\\data\\extracted\\summary_out.csv",
+    "mordecai_ports_matches_csv": "C:\\Users\\Sabrina.Temesghen\\Documents\\CLEAN_AI_AGENT\\data\\extracted\\mordecai_ports_matches.csv",
+    "mordecai_hits_csv": "C:\\Users\\Sabrina.Temesghen\\Documents\\CLEAN_AI_AGENT\\data\\extracted\\mordecai_hits.csv"
+  },
+  "published": {
+    "incidents_summary_json": "C:\\Users\\Sabrina.Temesghen\\Documents\\LIVE_Alerts_URL\\incidents_summary.json",
+    "mordecai_port_matches_flat_json": "C:\\Users\\Sabrina.Temesghen\\Documents\\LIVE_Alerts_URL\\mordecai_port_matches_flat.json",
+    "mordecai_port_matches_grouped_json": "C:\\Users\\Sabrina.Temesghen\\Documents\\LIVE_Alerts_URL\\mordecai_port_matches.json",
+    "mordecai_hits_flat_json": "C:\\Users\\Sabrina.Temesghen\\Documents\\LIVE_Alerts_URL\\mordecai_hits_flat.json",
+    "mordecai_hits_grouped_json": "C:\\Users\\Sabrina.Temesghen\\Documents\\LIVE_Alerts_URL\\mordecai_hits.json"
+  },
+  "counts": {
+    "incidents": 198,
+    "mordecai_port_matches_flat_rows_ge_threshold": 1088,
+    "mordecai_hits_flat_rows": 1314
+  },
+  "thresholds": {
+    "publish_min_mord_total_score": 0.5
+  },
+  "git": {
+    "publish_git_push_enabled": true,
+    "outputs_repo": "C:\\Users\\Sabrina.Temesghen\\Documents\\LIVE_Alerts_URL"
+  }
+}
